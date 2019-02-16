@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/jsonToDB/jsonToDB.iml" filepath="$PROJECT_DIR$/jsonToDB/jsonToDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsonToDB/jsonToDB.iml" filepath="$PROJECT_DIR$/jsonToDB/jsonToDB.iml" />
     </modules>
   </component>
 </project>
